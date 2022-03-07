@@ -1,8 +1,0 @@
-#Step 1
-FROM scratch
-
-#Step 2
-ADD hello /
-
-#Step 3
-CMD ["/hello"]
